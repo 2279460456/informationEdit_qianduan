@@ -1,0 +1,1 @@
+export const CollapsedAction = { type: 'change_collapsed' }
